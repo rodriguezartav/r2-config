@@ -1,0 +1,30 @@
+{
+  "name": "r2-config",
+  "version": "0.0.0",
+  "description": "Configuration Static Object used in process CLI's like Gulp and such",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/rodriguezartav/r2-config"
+  },
+  "keywords": [
+    "cli",
+    "gulp",
+    "config",
+    "static",
+    "variable",
+    "global"
+  ],
+  "author": "Roberto Rodriguez Artavia <roberto@3vot.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodriguezartav/r2-config/issues"
+  },
+  "dependencies": {
+    "tape": "~3.0.3",
+    "gulp-util": "~3.0.1"
+  }
+}
